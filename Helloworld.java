@@ -1,6 +1,6 @@
 public class Helloworld{
 
-public string hello(){
+public String hello(){
 
 return "Welcome to java programing";
 }
